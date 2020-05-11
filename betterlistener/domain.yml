@@ -2,6 +2,10 @@ intents:
   - distraction
   - passive_engagement 
   - selfish_distracted 
+  - interest
+  - boredom
+  - pensiveness
+  - acceptance
 
 actions:
 - utter_greet
