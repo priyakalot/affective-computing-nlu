@@ -87,33 +87,41 @@
 
 
 ## intent:sadness
-- That's interesting
-- I see 
-- Let me think about that
-- Oh, I see
-- I regret
-- sadness
-- sorrow
-- grief
-- anguish
-- bewilderment
-- helplessness
-- longing
-- loneliness
-- despair
-- heartbreak
-- heartache
-- emptiness
-- bereavement
-- mourning
-- hopelessness
-- loss
-- pangs
-- agony
-- tinge
-- wistfulness
-- dejection
-- misery
+- Terrible
+- Horrible
+- That's terrible
+- This is so sad
+- Such a sad story
+- So sad
+- I can't even imagine how you must be feeling
+- Poor you
+- Poor thing
+- Such a horrible story
+- :(
+- :'(
+- I understand your sorrow
+- I feel your sorrow
+- I see you are in grief
+- I can only imagine the anguish
+- How anguishing
+- I can imagine you feeling helplessness
+- I feel the longing
+- Such loneliness
+- It must feel so lonely
+- How lonely
+- Such a despair
+- This is heartbreaking
+- This breaks my heart
+- This is disheartening
+- It gives me heartache
+- I can see the emptiness
+- I can see you're mourning
+- I can see hopelessness
+- I'm sorry for your loss
+- So sorry for your loss
+- I'm sorry to hear this
+- This must be such an agony
+- I'm sorry for all this misery
 
 
 ## intent:disgust
