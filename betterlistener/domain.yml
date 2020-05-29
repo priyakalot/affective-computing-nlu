@@ -1,9 +1,12 @@
 intents:
-  - distraction
-  - interest
-  - boredom
-  - pensiveness
-  - acceptance
+    - joy
+    - trust
+    - fear
+    - surprise
+    - sadness
+    - disgust
+    - anger
+    - anticipation
 
 actions:
 - utter_greet
