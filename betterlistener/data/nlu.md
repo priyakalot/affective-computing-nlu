@@ -199,9 +199,9 @@
 - Job searching is definitely a stressful process for a lot of people, I can relate.
 - I can relate
 - [job search](topic)
--anticipation
--anticipating
--expectation
--jitters
--frenzy
+- anticipation
+- anticipating
+- expectation
+- jitters
+- frenzy
 
