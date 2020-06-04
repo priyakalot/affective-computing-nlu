@@ -38,10 +38,14 @@
 - I'm sorry to hear that
 - I believe you
 - You're right
-- trust
-- faith
-- goodwill
-- loyalty
+- I trust you
+- We can trust each other
+- I have faith in you
+- Have faith
+- You have my goodwill
+- You have my loyalty
+- I'm loyal to you
+- Loyalty is an important quality
 
 
 ## intent:fear
@@ -49,22 +53,40 @@
 - yikes!
 - eek!
 - Aah!
-- fear
-- worry
-- anxiety
-- fearful
-- insecurity
-- apprehension
-- danger
-- suspicion
-- panic
-- dread
-- afraid
-- nervousness
-- unease
-- uncertainty
-- discomfort
-- terror
+- ouch
+- I'm scared for you
+- That's really scary
+- I fear that
+- I'm worried
+- That's worrisome
+- I would be worried
+- I would be afraid too
+- anxiety is no joke
+- I'm anxious
+- I'm fearful
+- I know you're fearful
+- Everyone feels some insecurity sometimes
+- It's okay to be insecure
+- I sense some apprehension
+- are you in danger?
+- that seems dangerous
+- it's dangerous
+- I'm suspiscious
+- Try not to panic!
+- I would panic
+- I'm panicking!
+- I feel a sense of dread
+- How dreadful!
+- It's okay to be afraid
+- nervousness is normal
+- im nervous
+- are you nervous too?
+- we are uneasy
+- uncertainty is frightening
+- discomfort is tricky
+- i'm uncomfortable
+- you're uncomfortable
+- that sounds terrifying
 
 ## intent:surprise
 - Oops, sorry. I wasn't listening
@@ -82,8 +104,12 @@
 - my cat
 - my dog
 - the weather seems
-- surprise
-- amazement
+- i'm surprised
+- that's surprising!
+- really?
+- i'm amazed
+- that's amazing
+- no way!
 
 
 ## intent:sadness
