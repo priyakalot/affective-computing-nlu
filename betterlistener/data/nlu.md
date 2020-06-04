@@ -5,31 +5,56 @@
 - Fantastic!
 - I'm happy I could help
 - That's amazing
-- joy
-- exhiliration
-- pleasure
-- elation
-- ecstacy
-- contentment
-- delight
-- happiness
-- awe
-- wonderment
-- excitement
-- warmth
-- laughter
-- cheer
-- gratitude
-- exuberance
-- bliss
-- exultation
-- love
-- joys
-- amazement
-- smiles
-- adoration
-- jubilation
-- joyfully
+- You're a joy
+- It's a joy to talk to you
+- This is exhilirating
+- I'm pleased
+- I am so pleased
+- I'm elated to hear that!
+- I'm ecstatic about this!
+- I am content
+- I hope you are content with this
+- That's delightful
+- You're delightful
+- I'm delighted
+- I hope I contribute to your happiness
+- be happy!
+- stay positive!
+- I am happy for you
+- i am in awe of you
+- i am in wonder at your achievements
+- this is exciting!
+- isn't this exciting?
+- i'm so very excited!
+- I'm feeling warmth
+- laughter is the best medicine
+- hahaha
+- L O L
+- I love to hear you laugh
+- cheer up
+- I'm feeling cheery
+- You seem more cheerful
+- Let's be cheerful
+- Thank you!
+- I am grateful
+- I feel exuberant!
+- This is bliss
+- Such bliss!
+- How blissful...
+- we can exult
+- you are loved
+- I love hearing about this
+- I love you
+- I love how much progress you've made
+- These are the joys of life
+- You are amazing.
+- Oh good
+- You're smiling!
+- Your smile makes me smile
+- you are adorable
+- I adore you
+- I feel jubilation
+- Let's act joyfully
 
 
 ## intent:trust
@@ -155,11 +180,19 @@
 - I wasn't listening
 - Uh
 - I'm bored
+- huh?
+- I don't get it
+- what did you say?
+- repeat that.
 - Yeah, I think you’ll be fine.
 - yeah, anything else you wanted to talk about or are you good?
 - whatever
+- if you say so...
 - gross
 - ugh
+- this is boring
+- are you done yet?
+- I think we're finished here
 
 
 ## intent:anger
@@ -225,9 +258,12 @@
 - Job searching is definitely a stressful process for a lot of people, I can relate.
 - I can relate
 - [job search](topic)
-- anticipation
-- anticipating
-- expectation
-- jitters
-- frenzy
+- Do you feel anticipation?
+- I'm anticipating that too
+- I expect so
+- i have expectations
+- i've got the jitters
+- i'm feeling jittery
+- in a frenzy
+- I'm a bit frenzied right now
 
