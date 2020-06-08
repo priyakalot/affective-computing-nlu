@@ -55,7 +55,8 @@
 - I adore you
 - I feel jubilation
 - Let's act joyfully
-
+- You seem happy
+- You seem full of joy
 
 ## intent:trust
 - That does sound really difficult.
@@ -138,8 +139,10 @@
 
 
 ## intent:sadness
-- Terrible
-- Horrible
+- That sounds terrible
+- That seems terrible
+- That sounds horrible
+- That seems horrible
 - That's terrible
 - This is so sad
 - Such a sad story
@@ -199,37 +202,30 @@
 - how dare you
 - you're not the only one suffering right now
 - stop focusing on yourself all the time
-- anger
-- frustration
-- resentment
+- You seem angry
+- You seem frustrated
+- You seem resentful
+- I hear resentment
 - indignation
-- outrage
-- fury
-- bitterness
-- rage
-- irritation
-- bewilderment
-- unhappiness
-- revulsion
-- hostility
-- impatience
-- hatred
-- frustrations
-- annoyance
-- discontent
-- distrust
-- regret
-- hysteria
-- insecurity
-- grief
-- fear
-- disapproval
-- scorn
-- dismay
-- rancor
-- agitation
-- cynicism
-- animosity
+- You seem outraged
+- You seem furious
+- You seem bitter
+- I hear rage in your voice
+- You seem irritated
+- You seem unhappy
+- You seem revolted
+- I hear hostility in your voice
+- You seem impatient
+- It sounds like you hated that
+- You seem frustrated
+- You seem annoyed
+- You sound discontent
+- It sounds like you regret something
+- It sounds like you disapprove
+- You sound scornful
+- You seem agitated
+- You seem cynical
+- I hear animosity in your voice
 - vitriol
 - loathing
 
